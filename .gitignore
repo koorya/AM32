@@ -1,6 +1,6 @@
 obj/
 downloads/
-tools/
+tools/linux
 .vscode
 Keil_Projects/*.uvgui.*
 Keil_Projects/*.uvguix.*
@@ -21,3 +21,4 @@ Keil_Projects/Listings
 /Debug/
 windows-tools.zip
 .settings/
+__pycache__
